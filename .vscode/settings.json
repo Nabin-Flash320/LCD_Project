@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "lcd_lib.h": "c",
+        "lcd_com.h": "c",
+        "ili9486.h": "c",
+        "esp_timer.h": "c"
+    }
+}
